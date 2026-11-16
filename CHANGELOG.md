@@ -2,6 +2,10 @@
 
 Each entry is one version of this template. Breaking changes come first.
 
+## 4.0.24-1 (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template `imgproxy-2`. No change to the image or the service.
+
 ## 4.0.24 (2026-11-16)
 
 - First release: imgproxy v4.0.24, `ghcr.io/imgproxy/imgproxy:v4.0.24@sha256:5f3546e097bde5d2c568bf5110c4e3fb4af9bbe2cc5da6390067fda034a88db3`.
