@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/imgproxy-2?utm_medium=integration&utm_source=button&utm_campaign=imgproxy)
+
 # imgproxy on Railway
 
 This repo is the source of the **imgproxy** template on Railway. It deploys [imgproxy](https://github.com/imgproxy/imgproxy) **v4.0.24**, the fast image server that resizes, crops and converts remote images on the fly from a URL.
